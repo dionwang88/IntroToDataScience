@@ -2,9 +2,9 @@
 In this course I have done four projects:
 
 
-1. Twitter Sentiment Analysis
+## 1. Twitter Sentiment Analysis
 
-  Our topic – “iPad Pro”
+  ###Our topic – “iPad Pro”
   
   Motivation:
   
@@ -19,10 +19,14 @@ In this course I have done four projects:
   Purpose: To examine the future of iPad Pro & consider use of the data from a marketing perspective
   
 
-2. NBA Ground Analysis
-
-3. Yelp Recommender
+## 2. NBA Ground Analysis
 
 
-4. Twitter and Stock Index Granger Causality
+
+## 3. Yelp Recommender
+
+
+
+## 4. Twitter and Stock Index Granger Causality
+
 
