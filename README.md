@@ -4,7 +4,7 @@ In this course I have done four projects:
 
 ## 1. Twitter Sentiment Analysis
 
-  ###Our topic – “iPad Pro”
+###Our topic – “iPad Pro”
   
   Motivation:
   
