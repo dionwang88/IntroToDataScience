@@ -6,4 +6,6 @@ In this course I have done four projects:
 
 3. Yelp Recommender
 
+
 4. Twitter and Stock Index Granger Causality
+
