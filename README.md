@@ -51,4 +51,13 @@ We used two different accuracy measures to examine the error rate between our tw
 
 ## 4. Twitter and Stock Index Granger Causality
 
+Social media: the easiest & fastest way to transmit and receive information.
+
+Twitter: Aggregate of tweets could be seen as an indicator of collective mood.
+
+Data scientists have been made several attempts to examine Twitter’s predictive potential of consumer purchasing by observing users’ mood.
+
+“Twitter mood predicts the stock market” by Bollen, Mao, and Zeng in 2011.
+
+Our Analysis: Analyze Twitter data through sentiment analysis & compare it with instead with the SP500 and Nasdaq index (4 different tests)
 
