@@ -3,6 +3,7 @@ In this course I have done four projects:
 
 
 1. Twitter Sentiment Analysis
+
   Our topic – “iPad Pro”
   Motivation:
   Apple recently introduced its new iPad line: “iPad Pro” in its latest September special event.
